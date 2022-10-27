@@ -1,0 +1,2 @@
+compile = "make clean; make -s"
+run = "./carnival patronList.txt"
